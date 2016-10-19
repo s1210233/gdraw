@@ -31,11 +31,11 @@ int main( int argc, char **argv )
     // net->load( "data/b102.gv.dat" );  // V = 302 
     // net->load( "data/b143.gv.dat" );  // V = 135
     // net->load( "data/b106.gv.dat" );  // V = 104
-    net->load( "data/b124.gv.dat" );  // V = 79
+    //net->load( "data/b124.gv.dat" );  // V = 79
     // net->load( "data/abstract.dat" );  //
     // net->load( "data/syouhin.dat" );  //Graph.cpp
     // net->load( "data/syouhin2.dat" );  //Graph.cpp
-
+    net->load( "data/test.dat");
 //----------------------------------------------------------
 //	Main window
 //----------------------------------------------------------
